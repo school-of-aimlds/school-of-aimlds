@@ -1,5 +1,6 @@
-### Hi there 👋
+# Welcome to School of AI, ML and Data Science! ✨
 
+The School of AI, ML & Data Science serves as a dynamic, student-driven AI community within the Innovation Centre of KIET Group of Institutions, Ghaziabad.
 <!--
 **school-of-aimlds/school-of-aimlds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
