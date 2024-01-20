@@ -11,6 +11,9 @@ In addition to project-based learning, our school places a significant focus on 
 
 We take pride in fostering a collaborative and inclusive learning environment. Through a rich tapestry of diverse perspectives and experiences, our students gain a holistic understanding of AI's potential and its ethical implications. By encouraging open dialogue and critical thinking, we prepare our graduates to navigate the complex landscape of artificial intelligence with a sense of responsibility and foresight.
 
+## Code of Conduct : 
+To foster a welcoming and inclusive atmosphere, GitHub has established a [CODE OF CONDUCT] applicable to all community members. We kindly ask you to review and adhere to it, ensuring a respectful environment for everyone.
+
 ## Connect with Us : 🙋‍♂️
 At the School of AI, Machine Learning, and Data Science, we are not just mentors; we are architects of a future where AI is harnessed responsibly and innovatively. Join us on this transformative journey, where theory meets practice, and curiosity meets impact. Together, let's shape the future of artificial intelligence.
 
